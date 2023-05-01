@@ -15,3 +15,7 @@ Per eseguire l'esercizio ci siamo basati sulla seguente tabella, che indica la d
 Tramite questa tabella è possibile iniziare a pianificare la suddivisione della rete nelle varie subnet:
 
 <img src="images/Progettazione excel.png" alt="Progettazione">
+
+Dopo aver inserito i dati della tabella nella configurazione dei vari dispositivi, si ottiene una rete di questo tipo:
+
+<img src="images/Rete Cisco.png" alt="Rete su Cisco">
