@@ -8,6 +8,10 @@ Realizzare il seguente esempio di subnetting con maschere di sottorete a lunghez
 ## Procedimento:
 - **Variable Lenght Subnet Mask**: si utilizza nell'ambito del subnetting a scopo di ottenere delle subnet di dimensioni diverse e che quindi abbiano diversi valori relativi al numero massimo di host che ognuna di esse può contenere.
 
-Per eseguire l'esercizio ci siamo basati sulla seguente tabella:
+Per eseguire l'esercizio ci siamo basati sulla seguente tabella, che indica la dimensione relativa ad ogni subnet mask (espressa in slash notation):
 
 <img src="images/Tabella CIDR.png" alt="Tabella CIDR">
+
+Tramite questa tabella è possibile iniziare a pianificare la suddivisione della rete nelle varie subnet:
+
+<img src="images/Progettazione excel.png" alt="Progettazione">
