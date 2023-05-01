@@ -5,6 +5,12 @@ Realizzare il seguente esempio di subnetting con maschere di sottorete a lunghez
 
 <img src="images/consegna esercizio.png" alt="Consegna esercizio">
 
+La rete deve contenere quindi:
+- 3 router
+- 6 switch
+- 6 o più host
+La rete deve essere suddivisa in 8 sottoreti, 6 che contengano gli host e 2 che favoriscano la comunicazione fra i vari router.
+
 ## Procedimento:
 - **Variable Lenght Subnet Mask**: si utilizza nell'ambito del subnetting a scopo di ottenere delle subnet di dimensioni diverse e che quindi abbiano diversi valori relativi al numero massimo di host che ognuna di esse può contenere.
 
@@ -12,7 +18,7 @@ Per eseguire l'esercizio ci siamo basati sulla seguente tabella, che indica la d
 
 <img src="images/Tabella CIDR.png" alt="Tabella CIDR">
 
-Tramite questa tabella è possibile iniziare a pianificare la suddivisione della rete nelle varie subnet:
+Tramite questa tabella è possibile iniziare a pianificare la suddivisione della rete nelle varie subnet in base alla dimensione richiesta per ogni sottorete:
 
 <img src="images/Progettazione excel.png" alt="Progettazione">
 
